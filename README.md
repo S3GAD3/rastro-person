@@ -2,6 +2,8 @@
 
 **RASTRO-PERSON** es un módulo del **Kit RASTRO** para organizar investigaciones OSINT sobre personas a partir de un nombre, apellidos, alias o documento de identidad.
 
+Enlace a la herramienta: https://s3gad3.github.io/rastro-person/
+
 La herramienta genera consultas dirigidas, permite documentar los hallazgos, representa las relaciones en un grafo y produce un informe exportable. Todo el tratamiento del expediente se realiza en el navegador.
 
 > Una coincidencia nominal o documental no acredita por sí sola una identidad. RASTRO-PERSON es una herramienta de apoyo al análisis y requiere verificación humana y contextual.
