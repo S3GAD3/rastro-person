@@ -91,18 +91,6 @@ Cada hallazgo puede registrar:
 
 No requiere instalación, servidor, cuenta de usuario ni claves API.
 
-## Publicación con GitHub Pages
-
-El proyecto es completamente estático:
-
-1. Crea un repositorio público o privado.
-2. Sube el contenido de esta carpeta a la raíz del repositorio.
-3. Abre **Settings → Pages**.
-4. En **Build and deployment**, selecciona **Deploy from a branch**.
-5. Selecciona la rama `main` y la carpeta `/ (root)`.
-
-También puede utilizarse exclusivamente en local, sin activar GitHub Pages.
-
 ## Privacidad y seguridad
 
 - El expediente se procesa en el equipo del investigador.
